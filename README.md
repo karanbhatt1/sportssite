@@ -1,2 +1,2 @@
 # sportssite
-This is sports related and gym related website giving information about workouts, sports knowlege etc.
+This is sports sports-related and gym-related website.<br> giving information about workouts, sports knowledge etc.
